@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the demos
 
-For Augmented Images:
+### For Augmented Images:
 
 Open the project in Unity.
 
@@ -32,5 +32,6 @@ Print out the images located in `Assets > _Images` (or have it up on your monito
 
 As you move your device, the app automatically detects and tracks images from the set of reference images.
 
+*be sure to star this repo or follow on Twitter for the other projects*
 # Authors
 Noble Ackerson - _Initial work via_ - [Google ARCore Docs](https://developers.google.com/ar/develop/unity/augmented-images/guide)
