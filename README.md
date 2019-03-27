@@ -7,7 +7,7 @@ A collection of demos from my GDE codelabs/talks covering:
 * Augmented Faces
 * Cloud Anchors
 
-_Quick note: I'll be migrating stuff over time so if the demo is not fully moved over, check back._
+_Quick note: I'll be adding stuff over time so if the demo is not fully moved over, check back._
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
