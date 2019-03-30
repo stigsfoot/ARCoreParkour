@@ -2,10 +2,11 @@
 
 A collection of demos from my GDE codelabs/talks covering:
 
-* ARCore 101
-* Augmented Images
-* Augmented Faces
-* Cloud Anchors
+* Unity3D AR Foundation (Beginner)
+* Building your first ARCore Experience (Beginner)
+* Augmented Images (Intermediate)
+* Augmented Faces (Advanced)
+* Cloud Anchors (Advanced)
 
 _Quick note: I'll be adding stuff over time so if the demo is not fully moved over, check back._
 
